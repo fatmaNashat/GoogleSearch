@@ -1,0 +1,157 @@
+#find{
+    color: black;
+    font-weight: bold;
+    font-size: x-large;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+#find2{
+    color: black;
+    font-weight: bold;
+    font-size: x-large;
+    margin-left: 990px;
+    position: absolute;
+    top: 150px;
+}
+
+
+.word1{ 
+    color: black;
+    font-size: x-large;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+.word2{
+    color: black;
+    font-size: x-large;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+.word3{
+    color: black;
+    font-size: x-large;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+.word4{
+    color: black;
+    font-size: x-large;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+.word5{
+    color: black;
+    font-size: x-large;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+
+#one{
+    margin-left: 197px;
+    background-color: lightgrey;
+    border-radius: 2px;
+    width: 550px;
+    height: 35px;
+}
+#two{
+    margin-left: 100px;
+    background-color: lightgrey;
+    border-radius: 2px;
+    width: 550px;
+    height: 35px;
+}
+#three{
+    margin-left: 160px;
+    background-color: lightgrey;
+    border-radius: 2px;
+    width: 550px;
+    height: 35px;
+}
+#four{
+    margin-left: 148px;
+    background-color: lightgrey;
+    border-radius: 2px;
+    width: 550px;
+    height: 35px;
+}
+
+#six{
+    margin-left: 19px;
+    background-color: lightgrey;
+    border-radius: 2px;
+    width: 250px;
+    height: 35px;
+}
+
+#five{
+    margin-left: 105px;
+    background-color: lightgrey;
+    border-radius: 2px;
+    width: 250px;
+    height: 35px;
+}
+
+#then{
+    color: black;
+    font-weight: bold;
+    font-size: x-large;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.word6{
+    color: black;
+    font-size: x-large;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.word7{
+    color: black;
+    font-size: x-large;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+#seven{
+    margin-left: 250px;
+    background-color: lightgrey;
+    border-radius: 2px;
+    width: 560px;
+    height: 35px;
+}
+
+#eight{
+    margin-left: 280px;
+    background-color: lightgrey;
+    border-radius: 2px;
+    width: 560px;
+    height: 35px;
+}
+
+#button{
+    background-color: rgb(118, 221, 255);
+    margin-left: 744px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 200px;
+}
+#final{
+    margin-left: 940px;
+    font-size: smaller;
+    color: gray;
+
+
+}
+
+#final2{
+    font-size: smaller;
+    margin-left: 40px;
+    color: gray;
+}

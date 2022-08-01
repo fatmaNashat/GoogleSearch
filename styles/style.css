@@ -1,0 +1,136 @@
+body {
+    width: fit-content;
+ }
+
+#img {
+    margin-left: 650px;
+    position: relative ;
+    top: 150px;
+}
+
+#search {
+    border-radius: 30px;
+    position: relative;
+    top: 140px;
+    display: block;
+    margin-left: 500px;
+    height: 25px;
+    width: 570px;
+    font-weight: 100;
+    cursor: auto;
+    background-image: url('https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png');
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 30px;
+    font-size: 16px;
+    padding: 12px 20px 12px 50px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
+    direction: ltr;
+
+    
+}
+
+#googleSearch {
+    position: relative;
+    top: 158px;
+    margin-left: 570px;
+    background-color: rgb(219, 219, 219);
+    font-weight: bold;
+    padding: 10px;
+    margin-left: 630px;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+    border: 1px solid rgb(167, 167, 167);
+    cursor: pointer;
+
+    
+}
+
+#lucky {
+    position: relative;
+    top: 158px;
+    margin-left: 50px;
+    background-color: rgb(219, 219, 219);
+    font-weight: bold;
+    padding: 10px;
+    margin-left: 41px;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+    border: 1px solid rgb(167, 167, 167);
+    cursor: pointer;
+
+
+}
+
+svg{
+    position: relative;
+    left: 1100px;
+    top: 52px;
+}
+
+#menu {
+    position: relative;
+    left: 620px;
+    bottom:185px;
+    
+}
+
+#signup{
+    position: relative;
+    left: 1460px;
+    padding: 10px;
+    top: 12px;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: gray;
+    cursor: pointer;
+    background-color: rgb(113, 219, 255);
+
+    
+}
+
+#images{
+    display: inline;
+    position: relative;
+    left: 1450px;
+    bottom: 15px;
+    cursor: pointer;
+}
+
+#images{
+    display: inline;
+    position: relative;
+    text-align: right;
+    bottom: 15px;
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: larger;
+    left: 1370px;
+    
+}
+
+#Advanced{
+    position: relative;
+    text-align: right;
+    bottom: 35px;
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: larger;
+    left: 190px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+  
+
+
